@@ -10,9 +10,3 @@ Simple Script Use cfscrape Module, Connect Proxies To Bypass CF
 #Usage
 
     python3 cfbypass.py
-    
-    
-#Note
-
-I Will Update This Script It Is In Test Version
--GogoZin 2019/8/12
